@@ -1,4 +1,5 @@
 A CASE STUDY ON LEMONADE FINANCE
+
 Lemonade Finance is a provider of digital banking services. Incorporated in 2020 in Canada, Olalera Ridwan and Rian Cockran founded it. This digital banking provider is intended for immigrants living in North America and Europe. The company provides users with a bank account in both their country of residence and country of origin to support their personal & business banking needs, enabling users to undertake money transactions at no fees and market standard exchange rates securely.
 
 Lemonade Finance is a multi-currency platform company specializing in African diaspora financial services. It offers the ability to manage bank accounts in multiple currencies and move money across borders at cheap rates.
